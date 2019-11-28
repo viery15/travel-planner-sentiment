@@ -1,0 +1,1544 @@
+[
+    {
+        "stoplist": "yang"
+    },
+    {
+        "stoplist": "mampu"
+    },
+    {
+        "stoplist": "tentang"
+    },
+    {
+        "stoplist": "di"
+    },
+    {
+        "stoplist": "setelah"
+    },
+    {
+        "stoplist": "semua"
+    },
+    {
+        "stoplist": "hampir"
+    },
+    {
+        "stoplist": "juga"
+    },
+    {
+        "stoplist": "am"
+    },
+    {
+        "stoplist": "antara"
+    },
+    {
+        "stoplist": "dan"
+    },
+    {
+        "stoplist": "ada"
+    },
+    {
+        "stoplist": "seperti"
+    },
+    {
+        "stoplist": "jadi"
+    },
+    {
+        "stoplist": "karena"
+    },
+    {
+        "stoplist": "sudah"
+    },
+    {
+        "stoplist": "tetapi"
+    },
+    {
+        "stoplist": "oleh"
+    },
+    {
+        "stoplist": "bisa"
+    },
+    {
+        "stoplist": "tidak"
+    },
+    {
+        "stoplist": "sayang"
+    },
+    {
+        "stoplist": "lakukan"
+    },
+    {
+        "stoplist": "memang"
+    },
+    {
+        "stoplist": "baik"
+    },
+    {
+        "stoplist": "lain"
+    },
+    {
+        "stoplist": "pernah"
+    },
+    {
+        "stoplist": "setiap"
+    },
+    {
+        "stoplist": "untuk"
+    },
+    {
+        "stoplist": "dari"
+    },
+    {
+        "stoplist": "punya"
+    },
+    {
+        "stoplist": "telah"
+    },
+    {
+        "stoplist": "dia"
+    },
+    {
+        "stoplist": "miliknya"
+    },
+    {
+        "stoplist": "bagaimana"
+    },
+    {
+        "stoplist": "bagaimanapun"
+    },
+    {
+        "stoplist": "i"
+    },
+    {
+        "stoplist": "jika"
+    },
+    {
+        "stoplist": "ke"
+    },
+    {
+        "stoplist": "dalam"
+    },
+    {
+        "stoplist": "itu"
+    },
+    {
+        "stoplist": "sama"
+    },
+    {
+        "stoplist": "paling"
+    },
+    {
+        "stoplist": "biarkan"
+    },
+    {
+        "stoplist": "mungkin"
+    },
+    {
+        "stoplist": "aku"
+    },
+    {
+        "stoplist": "sebagian"
+    },
+    {
+        "stoplist": "besar"
+    },
+    {
+        "stoplist": "harus"
+    },
+    {
+        "stoplist": "saya"
+    },
+    {
+        "stoplist": "off"
+    },
+    {
+        "stoplist": "sering"
+    },
+    {
+        "stoplist": "pada"
+    },
+    {
+        "stoplist": "hanya"
+    },
+    {
+        "stoplist": "atau"
+    },
+    {
+        "stoplist": "kita"
+    },
+    {
+        "stoplist": "sendiri"
+    },
+    {
+        "stoplist": "agak"
+    },
+    {
+        "stoplist": "kata"
+    },
+    {
+        "stoplist": "begitu"
+    },
+    {
+        "stoplist": "beberapa"
+    },
+    {
+        "stoplist": "mereka"
+    },
+    {
+        "stoplist": "kemudian"
+    },
+    {
+        "stoplist": "sana"
+    },
+    {
+        "stoplist": "ini"
+    },
+    {
+        "stoplist": "tis"
+    },
+    {
+        "stoplist": "sungguh"
+    },
+    {
+        "stoplist": "keinginan"
+    },
+    {
+        "stoplist": "adalah"
+    },
+    {
+        "stoplist": "kami"
+    },
+    {
+        "stoplist": "apa"
+    },
+    {
+        "stoplist": "kapan"
+    },
+    {
+        "stoplist": "mana"
+    },
+    {
+        "stoplist": "sementara"
+    },
+    {
+        "stoplist": "siapa"
+    },
+    {
+        "stoplist": "mengapa"
+    },
+    {
+        "stoplist": "akan"
+    },
+    {
+        "stoplist": "dengan"
+    },
+    {
+        "stoplist": "belum"
+    },
+    {
+        "stoplist": "anda"
+    },
+    {
+        "stoplist": "sebuah"
+    },
+    {
+        "stoplist": "atas"
+    },
+    {
+        "stoplist": "menurut"
+    },
+    {
+        "stoplist": "sesuai"
+    },
+    {
+        "stoplist": "seberang"
+    },
+    {
+        "stoplist": "sebenarnya"
+    },
+    {
+        "stoplist": "sekali"
+    },
+    {
+        "stoplist": "lagi"
+    },
+    {
+        "stoplist": "terhadap"
+    },
+    {
+        "stoplist": "sendirian"
+    },
+    {
+        "stoplist": "bersama"
+    },
+    {
+        "stoplist": "meskipun"
+    },
+    {
+        "stoplist": "selalu"
+    },
+    {
+        "stoplist": "apapun"
+    },
+    {
+        "stoplist": "siapapun"
+    },
+    {
+        "stoplist": "anyways"
+    },
+    {
+        "stoplist": "saja"
+    },
+    {
+        "stoplist": "selain"
+    },
+    {
+        "stoplist": "muncul"
+    },
+    {
+        "stoplist": "tepat"
+    },
+    {
+        "stoplist": "sekitar"
+    },
+    {
+        "stoplist": "samping"
+    },
+    {
+        "stoplist": "terkait"
+    },
+    {
+        "stoplist": "tersedia"
+    },
+    {
+        "stoplist": "jauh"
+    },
+    {
+        "stoplist": "sangat"
+    },
+    {
+        "stoplist": "menjadi"
+    },
+    {
+        "stoplist": "sebab"
+    },
+    {
+        "stoplist": "sebelum"
+    },
+    {
+        "stoplist": "sebelumnya"
+    },
+    {
+        "stoplist": "belakang"
+    },
+    {
+        "stoplist": "percaya"
+    },
+    {
+        "stoplist": "bawah"
+    },
+    {
+        "stoplist": "terbaik"
+    },
+    {
+        "stoplist": "lebih"
+    },
+    {
+        "stoplist": "luar"
+    },
+    {
+        "stoplist": "keduanya"
+    },
+    {
+        "stoplist": "singkat"
+    },
+    {
+        "stoplist": "namun"
+    },
+    {
+        "stoplist": "ayo"
+    },
+    {
+        "stoplist": "c"
+    },
+    {
+        "stoplist": "datang"
+    },
+    {
+        "stoplist": "cant"
+    },
+    {
+        "stoplist": "penyebab"
+    },
+    {
+        "stoplist": "tertentu"
+    },
+    {
+        "stoplist": "tentu"
+    },
+    {
+        "stoplist": "perubahan"
+    },
+    {
+        "stoplist": "jelas"
+    },
+    {
+        "stoplist": "co"
+    },
+    {
+        "stoplist": "com"
+    },
+    {
+        "stoplist": "akibatnya"
+    },
+    {
+        "stoplist": "berisi"
+    },
+    {
+        "stoplist": "saat"
+    },
+    {
+        "stoplist": "pasti"
+    },
+    {
+        "stoplist": "berbeda"
+    },
+    {
+        "stoplist": "melakukan"
+    },
+    {
+        "stoplist": "selama"
+    },
+    {
+        "stoplist": "edu"
+    },
+    {
+        "stoplist": "misalnya"
+    },
+    {
+        "stoplist": "delapan"
+    },
+    {
+        "stoplist": "tempat"
+    },
+    {
+        "stoplist": "cukup"
+    },
+    {
+        "stoplist": "seluruhnya"
+    },
+    {
+        "stoplist": "terutama"
+    },
+    {
+        "stoplist": "et"
+    },
+    {
+        "stoplist": "dll"
+    },
+    {
+        "stoplist": "bahkan"
+    },
+    {
+        "stoplist": "orang"
+    },
+    {
+        "stoplist": "semuanya"
+    },
+    {
+        "stoplist": "mana-mana"
+    },
+    {
+        "stoplist": "mantan"
+    },
+    {
+        "stoplist": "kecuali"
+    },
+    {
+        "stoplist": "sedikit"
+    },
+    {
+        "stoplist": "kelima"
+    },
+    {
+        "stoplist": "pertama"
+    },
+    {
+        "stoplist": "lima"
+    },
+    {
+        "stoplist": "diikuti"
+    },
+    {
+        "stoplist": "berikut"
+    },
+    {
+        "stoplist": "sebagainya"
+    },
+    {
+        "stoplist": "empat"
+    },
+    {
+        "stoplist": "lanjut"
+    },
+    {
+        "stoplist": "pergi"
+    },
+    {
+        "stoplist": "salam"
+    },
+    {
+        "stoplist": "terjadi"
+    },
+    {
+        "stoplist": "halo"
+    },
+    {
+        "stoplist": "maka"
+    },
+    {
+        "stoplist": "sini"
+    },
+    {
+        "stoplist": "inilah"
+    },
+    {
+        "stoplist": "selanjutnya"
+    },
+    {
+        "stoplist": "disini"
+    },
+    {
+        "stoplist": "sesudah"
+    },
+    {
+        "stoplist": "dirinya"
+    },
+    {
+        "stoplist": "hi"
+    },
+    {
+        "stoplist": "nya"
+    },
+    {
+        "stoplist": "mudah-mudahan"
+    },
+    {
+        "stoplist": "howbeit"
+    },
+    {
+        "stoplist": "yaitu"
+    },
+    {
+        "stoplist": "langsung"
+    },
+    {
+        "stoplist": "lantaran"
+    },
+    {
+        "stoplist": "inc"
+    },
+    {
+        "stoplist": "batin"
+    },
+    {
+        "stoplist": "sejauh"
+    },
+    {
+        "stoplist": "sebaliknya"
+    },
+    {
+        "stoplist": "bukan"
+    },
+    {
+        "stoplist": "terus"
+    },
+    {
+        "stoplist": "tahu"
+    },
+    {
+        "stoplist": "terakhir"
+    },
+    {
+        "stoplist": "akhir-akhir"
+    },
+    {
+        "stoplist": "kurang"
+    },
+    {
+        "stoplist": "supaya"
+    },
+    {
+        "stoplist": "mari"
+    },
+    {
+        "stoplist": "suka"
+    },
+    {
+        "stoplist": "kemungkinan"
+    },
+    {
+        "stoplist": "kecil"
+    },
+    {
+        "stoplist": "lihat"
+    },
+    {
+        "stoplist": "tampak"
+    },
+    {
+        "stoplist": "ltd"
+    },
+    {
+        "stoplist": "banyak"
+    },
+    {
+        "stoplist": "berarti"
+    },
+    {
+        "stoplist": "apalagi"
+    },
+    {
+        "stoplist": "diriku"
+    },
+    {
+        "stoplist": "nama"
+    },
+    {
+        "stoplist": "nd"
+    },
+    {
+        "stoplist": "dekat"
+    },
+    {
+        "stoplist": "perlu"
+    },
+    {
+        "stoplist": "butuh"
+    },
+    {
+        "stoplist": "kebutuhan"
+    },
+    {
+        "stoplist": "baru"
+    },
+    {
+        "stoplist": "berikutnya"
+    },
+    {
+        "stoplist": "sembilan"
+    },
+    {
+        "stoplist": "satu"
+    },
+    {
+        "stoplist": "biasanya"
+    },
+    {
+        "stoplist": "novel"
+    },
+    {
+        "stoplist": "sekarang"
+    },
+    {
+        "stoplist": "oh"
+    },
+    {
+        "stoplist": "ok"
+    },
+    {
+        "stoplist": "oke"
+    },
+    {
+        "stoplist": "tua"
+    },
+    {
+        "stoplist": "diri"
+    },
+    {
+        "stoplist": "keluar"
+    },
+    {
+        "stoplist": "secara"
+    },
+    {
+        "stoplist": "keseluruhan"
+    },
+    {
+        "stoplist": "khususnya"
+    },
+    {
+        "stoplist": "per"
+    },
+    {
+        "stoplist": "silahkan"
+    },
+    {
+        "stoplist": "plus"
+    },
+    {
+        "stoplist": "que"
+    },
+    {
+        "stoplist": "qv"
+    },
+    {
+        "stoplist": "rd"
+    },
+    {
+        "stoplist": "kembali"
+    },
+    {
+        "stoplist": "benar-benar"
+    },
+    {
+        "stoplist": "tanpa"
+    },
+    {
+        "stoplist": "relatif"
+    },
+    {
+        "stoplist": "masing-masing"
+    },
+    {
+        "stoplist": "benar"
+    },
+    {
+        "stoplist": "melihat"
+    },
+    {
+        "stoplist": "kedua"
+    },
+    {
+        "stoplist": "tampaknya"
+    },
+    {
+        "stoplist": "masuk"
+    },
+    {
+        "stoplist": "akal"
+    },
+    {
+        "stoplist": "serius"
+    },
+    {
+        "stoplist": "tujuh"
+    },
+    {
+        "stoplist": "seharusnya"
+    },
+    {
+        "stoplist": "boleh"
+    },
+    {
+        "stoplist": "sejak"
+    },
+    {
+        "stoplist": "enam"
+    },
+    {
+        "stoplist": "seseorang"
+    },
+    {
+        "stoplist": "entah"
+    },
+    {
+        "stoplist": "sesuatu"
+    },
+    {
+        "stoplist": "kadang"
+    },
+    {
+        "stoplist": "kadang-kadang"
+    },
+    {
+        "stoplist": "suatu"
+    },
+    {
+        "stoplist": "segera"
+    },
+    {
+        "stoplist": "maaf"
+    },
+    {
+        "stoplist": "tentukan"
+    },
+    {
+        "stoplist": "masih"
+    },
+    {
+        "stoplist": "sub"
+    },
+    {
+        "stoplist": "sup"
+    },
+    {
+        "stoplist": "t"
+    },
+    {
+        "stoplist": "katakan"
+    },
+    {
+        "stoplist": "cenderung"
+    },
+    {
+        "stoplist": "th"
+    },
+    {
+        "stoplist": "terima"
+    },
+    {
+        "stoplist": "kasih"
+    },
+    {
+        "stoplist": "thanx"
+    },
+    {
+        "stoplist": "thats"
+    },
+    {
+        "stoplist": "situ"
+    },
+    {
+        "stoplist": "demikian"
+    },
+    {
+        "stoplist": "dalamnya"
+    },
+    {
+        "stoplist": "theres"
+    },
+    {
+        "stoplist": "d"
+    },
+    {
+        "stoplist": "berpikir"
+    },
+    {
+        "stoplist": "ketiga"
+    },
+    {
+        "stoplist": "teliti"
+    },
+    {
+        "stoplist": "seksama"
+    },
+    {
+        "stoplist": "tiga"
+    },
+    {
+        "stoplist": "melalui"
+    },
+    {
+        "stoplist": "seluruh"
+    },
+    {
+        "stoplist": "sehingga"
+    },
+    {
+        "stoplist": "bersama-sama"
+    },
+    {
+        "stoplist": "arah"
+    },
+    {
+        "stoplist": "dua"
+    },
+    {
+        "stoplist": "kali"
+    },
+    {
+        "stoplist": "un"
+    },
+    {
+        "stoplist": "sayangnya"
+    },
+    {
+        "stoplist": "sampai"
+    },
+    {
+        "stoplist": "kepada"
+    },
+    {
+        "stoplist": "penggunaan"
+    },
+    {
+        "stoplist": "nilai"
+    },
+    {
+        "stoplist": "berbagai"
+    },
+    {
+        "stoplist": "vs"
+    },
+    {
+        "stoplist": "ingin"
+    },
+    {
+        "stoplist": "cara"
+    },
+    {
+        "stoplist": "selamat"
+    },
+    {
+        "stoplist": "whereafter"
+    },
+    {
+        "stoplist": "sedangkan"
+    },
+    {
+        "stoplist": "dimana"
+    },
+    {
+        "stoplist": "pun"
+    },
+    {
+        "stoplist": "apakah"
+    },
+    {
+        "stoplist": "utuh"
+    },
+    {
+        "stoplist": "mau"
+    },
+    {
+        "stoplist": "bertanya-tanya"
+    },
+    {
+        "stoplist": "ya"
+    },
+    {
+        "stoplist": "kau"
+    },
+    {
+        "stoplist": "milikmu"
+    },
+    {
+        "stoplist": "dirimu"
+    },
+    {
+        "stoplist": "nol"
+    },
+    {
+        "stoplist": "a"
+    },
+    {
+        "stoplist": "aduh"
+    },
+    {
+        "stoplist": "agar"
+    },
+    {
+        "stoplist": "akhir"
+    },
+    {
+        "stoplist": "antaranya"
+    },
+    {
+        "stoplist": "apa-apa"
+    },
+    {
+        "stoplist": "awal"
+    },
+    {
+        "stoplist": "ayolah"
+    },
+    {
+        "stoplist": "b"
+    },
+    {
+        "stoplist": "bagian"
+    },
+    {
+        "stoplist": "bahwa"
+    },
+    {
+        "stoplist": "bapak"
+    },
+    {
+        "stoplist": "barang"
+    },
+    {
+        "stoplist": "tadi"
+    },
+    {
+        "stoplist": "baru-baru"
+    },
+    {
+        "stoplist": "barusan"
+    },
+    {
+        "stoplist": "bekas"
+    },
+    {
+        "stoplist": "beliau"
+    },
+    {
+        "stoplist": "besok"
+    },
+    {
+        "stoplist": "biasa"
+    },
+    {
+        "stoplist": "bu"
+    },
+    {
+        "stoplist": "buat"
+    },
+    {
+        "stoplist": "bulat"
+    },
+    {
+        "stoplist": "co"
+    },
+    {
+        "stoplist": "con"
+    },
+    {
+        "stoplist": "contoh"
+    },
+    {
+        "stoplist": "dahulu"
+    },
+    {
+        "stoplist": "lain-lain"
+    },
+    {
+        "stoplist": "depan"
+    },
+    {
+        "stoplist": "detail"
+    },
+    {
+        "stoplist": "detik"
+    },
+    {
+        "stoplist": "manapun"
+    },
+    {
+        "stoplist": "disisi"
+    },
+    {
+        "stoplist": "tengah-tengah"
+    },
+    {
+        "stoplist": "abaikan"
+    },
+    {
+        "stoplist": "dimanakah"
+    },
+    {
+        "stoplist": "puluh"
+    },
+    {
+        "stoplist": "belas"
+    },
+    {
+        "stoplist": "e"
+    },
+    {
+        "stoplist": "ex"
+    },
+    {
+        "stoplist": "g"
+    },
+    {
+        "stoplist": "giliran"
+    },
+    {
+        "stoplist": "h"
+    },
+    {
+        "stoplist": "hadirat"
+    },
+    {
+        "stoplist": "hadirin"
+    },
+    {
+        "stoplist": "hai"
+    },
+    {
+        "stoplist": "haiyaa"
+    },
+    {
+        "stoplist": "hal"
+    },
+    {
+        "stoplist": "hamba"
+    },
+    {
+        "stoplist": "hari"
+    },
+    {
+        "stoplist": "hello"
+    },
+    {
+        "stoplist": "heran"
+    },
+    {
+        "stoplist": "ibu"
+    },
+    {
+        "stoplist": "inc"
+    },
+    {
+        "stoplist": "iya"
+    },
+    {
+        "stoplist": "j"
+    },
+    {
+        "stoplist": "jangan"
+    },
+    {
+        "stoplist": "jatuh"
+    },
+    {
+        "stoplist": "jenis"
+    },
+    {
+        "stoplist": "juta"
+    },
+    {
+        "stoplist": "k"
+    },
+    {
+        "stoplist": "kanan"
+    },
+    {
+        "stoplist": "karenanya"
+    },
+    {
+        "stoplist": "kemana"
+    },
+    {
+        "stoplist": "kemari"
+    },
+    {
+        "stoplist": "kebanyakan"
+    },
+    {
+        "stoplist": "kelompok"
+    },
+    {
+        "stoplist": "kemanakah"
+    },
+    {
+        "stoplist": "kemarin"
+    },
+    {
+        "stoplist": "kenapa"
+    },
+    {
+        "stoplist": "kepentingan"
+    },
+    {
+        "stoplist": "keterangan"
+    },
+    {
+        "stoplist": "ketika"
+    },
+    {
+        "stoplist": "kira"
+    },
+    {
+        "stoplist": "kira-kira"
+    },
+    {
+        "stoplist": "kiranya"
+    },
+    {
+        "stoplist": "kosong"
+    },
+    {
+        "stoplist": "kursus"
+    },
+    {
+        "stoplist": "l"
+    },
+    {
+        "stoplist": "la"
+    },
+    {
+        "stoplist": "pula"
+    },
+    {
+        "stoplist": "lainnya"
+    },
+    {
+        "stoplist": "laki"
+    },
+    {
+        "stoplist": "laki-laki"
+    },
+    {
+        "stoplist": "lalu"
+    },
+    {
+        "stoplist": "lanjutkan"
+    },
+    {
+        "stoplist": "lawan"
+    },
+    {
+        "stoplist": "layak"
+    },
+    {
+        "stoplist": "tinggi"
+    },
+    {
+        "stoplist": "lewat"
+    },
+    {
+        "stoplist": "lusa"
+    },
+    {
+        "stoplist": "m"
+    },
+    {
+        "stoplist": "malah"
+    },
+    {
+        "stoplist": "malahan"
+    },
+    {
+        "stoplist": "masa"
+    },
+    {
+        "stoplist": "masalah"
+    },
+    {
+        "stoplist": "masing"
+    },
+    {
+        "stoplist": "menerus"
+    },
+    {
+        "stoplist": "merasa"
+    },
+    {
+        "stoplist": "mestinya"
+    },
+    {
+        "stoplist": "miliar"
+    },
+    {
+        "stoplist": "milikkita"
+    },
+    {
+        "stoplist": "mr"
+    },
+    {
+        "stoplist": "mrs"
+    },
+    {
+        "stoplist": "mulai"
+    },
+    {
+        "stoplist": "n"
+    },
+    {
+        "stoplist": "nampak"
+    },
+    {
+        "stoplist": "nomer"
+    },
+    {
+        "stoplist": "nomor"
+    },
+    {
+        "stoplist": "non"
+    },
+    {
+        "stoplist": "nyonya"
+    },
+    {
+        "stoplist": "o"
+    },
+    {
+        "stoplist": "on"
+    },
+    {
+        "stoplist": "p"
+    },
+    {
+        "stoplist": "paduka"
+    },
+    {
+        "stoplist": "pak"
+    },
+    {
+        "stoplist": "panjang"
+    },
+    {
+        "stoplist": "penting"
+    },
+    {
+        "stoplist": "penuh"
+    },
+    {
+        "stoplist": "penyajian"
+    },
+    {
+        "stoplist": "perihal"
+    },
+    {
+        "stoplist": "persis"
+    },
+    {
+        "stoplist": "point"
+    },
+    {
+        "stoplist": "pria"
+    },
+    {
+        "stoplist": "r"
+    },
+    {
+        "stoplist": "rata"
+    },
+    {
+        "stoplist": "rata-rata"
+    },
+    {
+        "stoplist": "ratus"
+    },
+    {
+        "stoplist": "rendah"
+    },
+    {
+        "stoplist": "ribu"
+    },
+    {
+        "stoplist": "runcing"
+    },
+    {
+        "stoplist": "rupiah"
+    },
+    {
+        "stoplist": "s"
+    },
+    {
+        "stoplist": "saudara"
+    },
+    {
+        "stoplist": "saudari"
+    },
+    {
+        "stoplist": "sebagai"
+    },
+    {
+        "stoplist": "sebagaimana"
+    },
+    {
+        "stoplist": "sebelas"
+    },
+    {
+        "stoplist": "segala"
+    },
+    {
+        "stoplist": "sejumlah"
+    },
+    {
+        "stoplist": "sekelompok"
+    },
+    {
+        "stoplist": "selama-lamanya"
+    },
+    {
+        "stoplist": "semoga"
+    },
+    {
+        "stoplist": "seorang"
+    },
+    {
+        "stoplist": "sepanjang"
+    },
+    {
+        "stoplist": "sepenuhnya"
+    },
+    {
+        "stoplist": "sepuluh"
+    },
+    {
+        "stoplist": "sesungguhnya"
+    },
+    {
+        "stoplist": "setengah"
+    },
+    {
+        "stoplist": "setidaknya"
+    },
+    {
+        "stoplist": "siapakah"
+    },
+    {
+        "stoplist": "sisi"
+    },
+    {
+        "stoplist": "nanti"
+    },
+    {
+        "stoplist": "sulung"
+    },
+    {
+        "stoplist": "sungguh-sungguh"
+    },
+    {
+        "stoplist": "tahun"
+    },
+    {
+        "stoplist": "tak"
+    },
+    {
+        "stoplist": "satupun"
+    },
+    {
+        "stoplist": "seorangpun"
+    },
+    {
+        "stoplist": "tambah"
+    },
+    {
+        "stoplist": "tanya"
+    },
+    {
+        "stoplist": "tapi"
+    },
+    {
+        "stoplist": "tebal"
+    },
+    {
+        "stoplist": "terbaru"
+    },
+    {
+        "stoplist": "terbelakang"
+    },
+    {
+        "stoplist": "terbesar"
+    },
+    {
+        "stoplist": "terbuka"
+    },
+    {
+        "stoplist": "terkecil"
+    },
+    {
+        "stoplist": "terlalu"
+    },
+    {
+        "stoplist": "terlihat"
+    },
+    {
+        "stoplist": "ternyata"
+    },
+    {
+        "stoplist": "terpanjang"
+    },
+    {
+        "stoplist": "tertarik"
+    },
+    {
+        "stoplist": "tertinggi"
+    },
+    {
+        "stoplist": "terus-menerus"
+    },
+    {
+        "stoplist": "dapat"
+    },
+    {
+        "stoplist": "tipis"
+    },
+    {
+        "stoplist": "titik"
+    },
+    {
+        "stoplist": "triliun"
+    },
+    {
+        "stoplist": "tuan"
+    },
+    {
+        "stoplist": "u"
+    },
+    {
+        "stoplist": "umum"
+    },
+    {
+        "stoplist": "umumnya"
+    },
+    {
+        "stoplist": "v"
+    },
+    {
+        "stoplist": "w"
+    },
+    {
+        "stoplist": "www"
+    },
+    {
+        "stoplist": "x"
+    },
+    {
+        "stoplist": "y"
+    },
+    {
+        "stoplist": "oleh"
+    },
+    {
+        "stoplist": "meski"
+    },
+    {
+        "stoplist": "sebanyak"
+    },
+    {
+        "stoplist": "cuma"
+    },
+    {
+        "stoplist": "percuma"
+    },
+    {
+        "stoplist": "para"
+    },
+    {
+        "stoplist": "ia"
+    },
+    {
+        "stoplist": "rp"
+    },
+    {
+        "stoplist": "bagi"
+    },
+    {
+        "stoplist": "bahwa"
+    },
+    {
+        "stoplist": "tersebut"
+    },
+    {
+        "stoplist": "merupakan"
+    },
+    {
+        "stoplist": "&nbsp;"
+    },
+    {
+        "stoplist": "mengenai"
+    },
+    {
+        "stoplist": "&ldquo"
+    },
+    {
+        "stoplist": "ddn"
+    },
+    {
+        "stoplist": "vit"
+    },
+    {
+        "stoplist": "kalau"
+    },
+    {
+        "stoplist": "dong"
+    },
+    {
+        "stoplist": "donk"
+    }
+]

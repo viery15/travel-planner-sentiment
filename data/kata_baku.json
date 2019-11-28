@@ -1,0 +1,794 @@
+[
+    {
+        "kata": "aktip",
+        "kata_asli": "aktif"
+    },
+    {
+        "kata": "aktifitas",
+        "kata_asli": "aktivitas"
+    },
+    {
+        "kata": "apotik",
+        "kata_asli": "apotek"
+    },
+    {
+        "kata": "analisa",
+        "kata_asli": "analisis"
+    },
+    {
+        "kata": "azas",
+        "kata_asli": "asas"
+    },
+    {
+        "kata": "atlit",
+        "kata_asli": "atlet"
+    },
+    {
+        "kata": "atmosfir",
+        "kata_asli": "atmosfer"
+    },
+    {
+        "kata": "cinderamata",
+        "kata_asli": "cenderamata"
+    },
+    {
+        "kata": "difinisi",
+        "kata_asli": "definisi"
+    },
+    {
+        "kata": "pebruari",
+        "kata_asli": "februari"
+    },
+    {
+        "kata": "hakekat",
+        "kata_asli": "hakikat"
+    },
+    {
+        "kata": "hipotesa",
+        "kata_asli": "hipotesis"
+    },
+    {
+        "kata": "hirarki",
+        "kata_asli": "hierarki"
+    },
+    {
+        "kata": "ijasah",
+        "kata_asli": "ijazah"
+    },
+    {
+        "kata": "ijin",
+        "kata_asli": "izin"
+    },
+    {
+        "kata": "jadual",
+        "kata_asli": "jadwal"
+    },
+    {
+        "kata": "jenasah",
+        "kata_asli": "jenazah"
+    },
+    {
+        "kata": "kaedah",
+        "kata_asli": "kaidah"
+    },
+    {
+        "kata": "karir",
+        "kata_asli": "karier"
+    },
+    {
+        "kata": "kondite",
+        "kata_asli": "konduite"
+    },
+    {
+        "kata": "konkrit",
+        "kata_asli": "konkret"
+    },
+    {
+        "kata": "konsepsionil",
+        "kata_asli": "konsepsional"
+    },
+    {
+        "kata": "kwitansi",
+        "kata_asli": "kuitansi"
+    },
+    {
+        "kata": "lembab",
+        "kata_asli": "lembap"
+    },
+    {
+        "kata": "lobang",
+        "kata_asli": "lubang"
+    },
+    {
+        "kata": "mengobah",
+        "kata_asli": "mengubah"
+    },
+    {
+        "kata": "merobah",
+        "kata_asli": "merubah"
+    },
+    {
+        "kata": "menterjemahkan",
+        "kata_asli": "menerjemahkan"
+    },
+    {
+        "kata": "metoda",
+        "kata_asli": "metode"
+    },
+    {
+        "kata": "musti",
+        "kata_asli": "mesti"
+    },
+    {
+        "kata": "motip",
+        "kata_asli": "motif"
+    },
+    {
+        "kata": "motifasi",
+        "kata_asli": "motivasi"
+    },
+    {
+        "kata": "nasehat",
+        "kata_asli": "nasihat"
+    },
+    {
+        "kata": "nopember",
+        "kata_asli": "november"
+    },
+    {
+        "kata": "seksama",
+        "kata_asli": "saksama"
+    },
+    {
+        "kata": "rejeki",
+        "kata_asli": "rezeki"
+    },
+    {
+        "kata": "sintesa",
+        "kata_asli": "sintesis"
+    },
+    {
+        "kata": "sistim",
+        "kata_asli": "sistem"
+    },
+    {
+        "kata": "sistimatis",
+        "kata_asli": "sistematis"
+    },
+    {
+        "kata": "standarisasi",
+        "kata_asli": "standardisasi"
+    },
+    {
+        "kata": "sipiritual",
+        "kata_asli": "spiritual"
+    },
+    {
+        "kata": "subyektip",
+        "kata_asli": "subjektif"
+    },
+    {
+        "kata": "sutra",
+        "kata_asli": "sutera"
+    },
+    {
+        "kata": "tarip",
+        "kata_asli": "tarif"
+    },
+    {
+        "kata": "tapsiran",
+        "kata_asli": "tafsiran"
+    },
+    {
+        "kata": "terlentang",
+        "kata_asli": "telentang"
+    },
+    {
+        "kata": "terlanjur",
+        "kata_asli": "telanjur"
+    },
+    {
+        "kata": "terlantar",
+        "kata_asli": "telantar"
+    },
+    {
+        "kata": "teoritis",
+        "kata_asli": "teoretis"
+    },
+    {
+        "kata": "tehnik",
+        "kata_asli": "teknik"
+    },
+    {
+        "kata": "trampil",
+        "kata_asli": "terampil"
+    },
+    {
+        "kata": "tradisionil",
+        "kata_asli": "tradisional"
+    },
+    {
+        "kata": "ujud",
+        "kata_asli": "wujud"
+    },
+    {
+        "kata": "mendifinisikan",
+        "kata_asli": "mendefinisikan"
+    },
+    {
+        "kata": "rubuh",
+        "kata_asli": "roboh"
+    },
+    {
+        "kata": "silahkan",
+        "kata_asli": "silakan"
+    },
+    {
+        "kata": "mumpung",
+        "kata_asli": "selagi"
+    },
+    {
+        "kata": "problimatik",
+        "kata_asli": "problematic"
+    },
+    {
+        "kata": "tilpun",
+        "kata_asli": "telepon"
+    },
+    {
+        "kata": "penasehat",
+        "kata_asli": "penasihat"
+    },
+    {
+        "kata": "spesis",
+        "kata_asli": "spesies"
+    },
+    {
+        "kata": "varitas",
+        "kata_asli": "varietas"
+    },
+    {
+        "kata": "photo",
+        "kata_asli": "foto"
+    },
+    {
+        "kata": "produktifitas",
+        "kata_asli": "produktivitas"
+    },
+    {
+        "kata": "subyek",
+        "kata_asli": "subjek"
+    },
+    {
+        "kata": "ahir",
+        "kata_asli": "akhir"
+    },
+    {
+        "kata": "on",
+        "kata_asli": "ons"
+    },
+    {
+        "kata": "eksport",
+        "kata_asli": "ekspor"
+    },
+    {
+        "kata": "sukur",
+        "kata_asli": "syukur"
+    },
+    {
+        "kata": "jendral",
+        "kata_asli": "jenderal"
+    },
+    {
+        "kata": "resiko",
+        "kata_asli": "risiko"
+    },
+    {
+        "kata": "survai",
+        "kata_asli": "survei"
+    },
+    {
+        "kata": "team",
+        "kata_asli": "tim"
+    },
+    {
+        "kata": "disel",
+        "kata_asli": "diesel"
+    },
+    {
+        "kata": "zone",
+        "kata_asli": "zona"
+    },
+    {
+        "kata": "filem",
+        "kata_asli": "film"
+    },
+    {
+        "kata": "manager",
+        "kata_asli": "manajer"
+    },
+    {
+        "kata": "dipersilakan",
+        "kata_asli": "dipersilahkan"
+    },
+    {
+        "kata": "kwalitas",
+        "kata_asli": "kualitas"
+    },
+    {
+        "kata": "mensukseskan",
+        "kata_asli": "menyukseskan"
+    },
+    {
+        "kata": "baud",
+        "kata_asli": "baut"
+    },
+    {
+        "kata": "ekstrim",
+        "kata_asli": "ekstrem"
+    },
+    {
+        "kata": "managemen",
+        "kata_asli": "manajemen"
+    },
+    {
+        "kata": "wasallam",
+        "kata_asli": "wasalam"
+    },
+    {
+        "kata": "mengeritik",
+        "kata_asli": "mengkritik"
+    },
+    {
+        "kata": "ilmiawan",
+        "kata_asli": "ilmuwan"
+    },
+    {
+        "kata": "menyolok",
+        "kata_asli": "mencolok"
+    },
+    {
+        "kata": "sekertaris",
+        "kata_asli": "sekretaris"
+    },
+    {
+        "kata": "prosentase",
+        "kata_asli": "persentase"
+    },
+    {
+        "kata": "pertanggungjawab",
+        "kata_asli": "pertanggungjawaban"
+    },
+    {
+        "kata": "perletakan",
+        "kata_asli": "peletakan"
+    },
+    {
+        "kata": "dipindah",
+        "kata_asli": "dipindahkan"
+    },
+    {
+        "kata": "menterapkan",
+        "kata_asli": "menerapkan"
+    },
+    {
+        "kata": "memproklamirkan",
+        "kata_asli": "memproklamasikan"
+    },
+    {
+        "kata": "insyaf",
+        "kata_asli": "insaf"
+    },
+    {
+        "kata": "trotoir",
+        "kata_asli": "trotoar"
+    },
+    {
+        "kata": "dollar",
+        "kata_asli": "dolar"
+    },
+    {
+        "kata": "setasiun",
+        "kata_asli": "stasiun"
+    },
+    {
+        "kata": "erobik",
+        "kata_asli": "aerobic"
+    },
+    {
+        "kata": "psikotest",
+        "kata_asli": "psikotes"
+    },
+    {
+        "kata": "melola",
+        "kata_asli": "mengelola"
+    },
+    {
+        "kata": "mengenyampingkan",
+        "kata_asli": "mengesampingkan"
+    },
+    {
+        "kata": "khutbah",
+        "kata_asli": "khotbah"
+    },
+    {
+        "kata": "isteri",
+        "kata_asli": "istri"
+    },
+    {
+        "kata": "justeru",
+        "kata_asli": "justru"
+    },
+    {
+        "kata": "Sumatra",
+        "kata_asli": "Sumatera"
+    },
+    {
+        "kata": "negri",
+        "kata_asli": "negeri"
+    },
+    {
+        "kata": "Prancis",
+        "kata_asli": "Perancis"
+    },
+    {
+        "kata": "krupuk",
+        "kata_asli": "kerupuk"
+    },
+    {
+        "kata": "anugrah",
+        "kata_asli": "anugerah"
+    },
+    {
+        "kata": "rejim",
+        "kata_asli": "rezim"
+    },
+    {
+        "kata": "jamrud",
+        "kata_asli": "zamrud"
+    },
+    {
+        "kata": "saptu",
+        "kata_asli": "sabtu"
+    },
+    {
+        "kata": "sarap",
+        "kata_asli": "saraf"
+    },
+    {
+        "kata": "obrak-abrik",
+        "kata_asli": "ubrak-abrik"
+    },
+    {
+        "kata": "mangkok",
+        "kata_asli": "mangkuk"
+    },
+    {
+        "kata": "kaos",
+        "kata_asli": "kaus"
+    },
+    {
+        "kata": "bis",
+        "kata_asli": "bus"
+    },
+    {
+        "kata": "nomer",
+        "kata_asli": "nomor"
+    },
+    {
+        "kata": "punggawa",
+        "kata_asli": "penggawa"
+    },
+    {
+        "kata": "resleting",
+        "kata_asli": "risleting"
+    },
+    {
+        "kata": "kempes",
+        "kata_asli": "kempis"
+    },
+    {
+        "kata": "intelejen",
+        "kata_asli": "intelijen"
+    },
+    {
+        "kata": "vidio",
+        "kata_asli": "video"
+    },
+    {
+        "kata": "pinsil",
+        "kata_asli": "pensil"
+    },
+    {
+        "kata": "personil",
+        "kata_asli": "personel"
+    },
+    {
+        "kata": "musium",
+        "kata_asli": "museum"
+    },
+    {
+        "kata": "disain",
+        "kata_asli": "desain"
+    },
+    {
+        "kata": "dekrit",
+        "kata_asli": "dekret"
+    },
+    {
+        "kata": "diskripsi",
+        "kata_asli": "deksripsi"
+    },
+    {
+        "kata": "debet",
+        "kata_asli": "debit"
+    },
+    {
+        "kata": "cendikiawan",
+        "kata_asli": "cendekiawan"
+    },
+    {
+        "kata": "speda",
+        "kata_asli": "sepeda"
+    },
+    {
+        "kata": "cidera",
+        "kata_asli": "cedera"
+    },
+    {
+        "kata": "antri",
+        "kata_asli": "antre"
+    },
+    {
+        "kata": "afdol",
+        "kata_asli": "afdal"
+    },
+    {
+        "kata": "aktuil",
+        "kata_asli": "aktual"
+    },
+    {
+        "kata": "formil",
+        "kata_asli": "formal"
+    },
+    {
+        "kata": "materai",
+        "kata_asli": "meterai"
+    },
+    {
+        "kata": "kalendar",
+        "kata_asli": "kalender"
+    },
+    {
+        "kata": "parlamen",
+        "kata_asli": "parlemen"
+    },
+    {
+        "kata": "sekular",
+        "kata_asli": "sekuler"
+    },
+    {
+        "kata": "selular",
+        "kata_asli": "seluler"
+    },
+    {
+        "kata": "aritmatika",
+        "kata_asli": "aritmetika"
+    },
+    {
+        "kata": "amandemen",
+        "kata_asli": "amendemen"
+    },
+    {
+        "kata": "adpokat",
+        "kata_asli": "advokat"
+    },
+    {
+        "kata": "akte",
+        "kata_asli": "akta"
+    },
+    {
+        "kata": "cemilan",
+        "kata_asli": "camilan"
+    },
+    {
+        "kata": "frase",
+        "kata_asli": "frasa"
+    },
+    {
+        "kata": "mesjid",
+        "kata_asli": "masjid"
+    },
+    {
+        "kata": "sekadar",
+        "kata_asli": "sekedar"
+    },
+    {
+        "kata": "pengreditan",
+        "kata_asli": "pengkreditan"
+    },
+    {
+        "kata": "sportip",
+        "kata_asli": "sportif"
+    },
+    {
+        "kata": "sportifitas",
+        "kata_asli": "sportivitas"
+    },
+    {
+        "kata": "obyek",
+        "kata_asli": "objek"
+    },
+    {
+        "kata": "terhempas",
+        "kata_asli": "terempas"
+    },
+    {
+        "kata": "berfikir",
+        "kata_asli": "berpikir"
+    },
+    {
+        "kata": "himbau",
+        "kata_asli": "imbau"
+    },
+    {
+        "kata": "mempesona",
+        "kata_asli": "memesona"
+    },
+    {
+        "kata": "taxi",
+        "kata_asli": "taksi"
+    },
+    {
+        "kata": "accu",
+        "kata_asli": "Aki"
+    },
+    {
+        "kata": "route",
+        "kata_asli": "rute"
+    },
+    {
+        "kata": "konggres",
+        "kata_asli": "kongres"
+    },
+    {
+        "kata": "Aquarium",
+        "kata_asli": "Akuarium"
+    },
+    {
+        "kata": "director",
+        "kata_asli": "direktur"
+    },
+    {
+        "kata": "antar negara",
+        "kata_asli": "antarnegara"
+    },
+    {
+        "kata": "electronik",
+        "kata_asli": "elektronik"
+    },
+    {
+        "kata": "tekhnologi",
+        "kata_asli": "teknologi"
+    },
+    {
+        "kata": "repertoire",
+        "kata_asli": "repertoar"
+    },
+    {
+        "kata": "relative",
+        "kata_asli": "relatif"
+    },
+    {
+        "kata": "security",
+        "kata_asli": "sekuritas"
+    },
+    {
+        "kata": "deputy",
+        "kata_asli": "deputi"
+    },
+    {
+        "kata": "culture",
+        "kata_asli": "kultur"
+    },
+    {
+        "kata": "diagnosa",
+        "kata_asli": "diagnosis"
+    },
+    {
+        "kata": "legalisir",
+        "kata_asli": "legalisiasi"
+    },
+    {
+        "kata": "akomodir",
+        "kata_asli": "akomodasi"
+    },
+    {
+        "kata": "abstrac",
+        "kata_asli": "abstrak"
+    },
+    {
+        "kata": "defaluasi",
+        "kata_asli": "devaluasi"
+    },
+    {
+        "kata": "monarkhi",
+        "kata_asli": "monarki"
+    },
+    {
+        "kata": "structure",
+        "kata_asli": "struktur"
+    },
+    {
+        "kata": "theatre",
+        "kata_asli": "teater"
+    },
+    {
+        "kata": "University",
+        "kata_asli": "Universitas"
+    },
+    {
+        "kata": "lesung pipit",
+        "kata_asli": "lesung pipi"
+    },
+    {
+        "kata": "salat",
+        "kata_asli": "sholat"
+    },
+    {
+        "kata": "disyahkan",
+        "kata_asli": "disahkan"
+    },
+    {
+        "kata": "fihak",
+        "kata_asli": "pihak"
+    },
+    {
+        "kata": "anggauta",
+        "kata_asli": "anggota"
+    },
+    {
+        "kata": "dipersilahkan",
+        "kata_asli": "dipersilakan"
+    },
+    {
+        "kata": "langganan",
+        "kata_asli": "pelanggan"
+    },
+    {
+        "kata": "utang",
+        "kata_asli": "hutang"
+    },
+    {
+        "kata": "dasa wisma",
+        "kata_asli": "dasawisma"
+    },
+    {
+        "kata": "pasca panen",
+        "kata_asli": "pascapanen"
+    },
+    {
+        "kata": "mengreditkan",
+        "kata_asli": "mengkreditkan"
+    },
+    {
+        "kata": "solat",
+        "kata_asli": "sholat"
+    },
+    {
+        "kata": "aktiv",
+        "kata_asli": "aktif"
+    },
+    {
+        "kata": "aktipitas",
+        "kata_asli": "aktivitas"
+    },
+    {
+        "kata": "motiv",
+        "kata_asli": "motif"
+    },
+    {
+        "kata": "refrensi",
+        "kata_asli": "referensi"
+    }
+]

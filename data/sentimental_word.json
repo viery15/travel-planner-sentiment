@@ -1,0 +1,1447 @@
+[
+    {
+        "word": ".",
+        "type": "Simbol",
+        "value": "0"
+    },
+    {
+        "word": ",",
+        "type": "Simbol",
+        "value": "0"
+    },
+    {
+        "word": "tidak",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "agak",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "kurang",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "amat",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "sangat",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "cukup",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "makin",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "semakin",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "sedikit",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "terlalu",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "sungguh",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "jangan",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "tak",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "belum",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "bukan",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "non",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "benar",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "paling",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "lumayan",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "lebih",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "sama sekali",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "tiada",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "kurang lebih",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "menarik",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "indah",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "bersih",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "menjemukan",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "anggun",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "cantik",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tampan",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "kuno",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "polos",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "aneh",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "berkilau",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "jelek",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sakit",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "hitam",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "putih",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "abu-abu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "hidup",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "baik",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "hati-hati",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "pintar",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "mati",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "mudah",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "terkenal",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "berbakat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "berguna",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "penting",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "murah",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "lembek",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kuasa",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "kaya",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "malu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "lembut",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "luas",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "salah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "limbung",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kikuk",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kalah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sengit",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "berdaya",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "gatal",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "cemburu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "malas",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "gaib",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "buruk",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "panik",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "jijik",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "ngeri",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "bijaksana",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tegang",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "cemas",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "cocok",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "berani",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tenang",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "senang",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "semangat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "setia",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "lemah lembut",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "riang",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "lincah",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "bagus",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "patuh",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "bangga",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "lega",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "bodoh",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "jaya",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "jenaka",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tekun",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "gembira",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "gemuk",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "bengkok",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "datar",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "dalam",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tinggi",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "rendah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sempit",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "bulat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "dangkal",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kurus",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "curam",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "lurus",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "lebar",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "besar",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "hebat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "mungil",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kering",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "keras",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "merdu",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "berisik",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "singkat",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "awal",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "cepat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "lambat",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "panjang",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "modern",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "canggih",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tua",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "muda",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "rusak",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "dingin",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "seram",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "lembab",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "lezat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "kotor",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "halus",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "beku",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "gizi",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "segar",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "longgar",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "busuk",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "asin",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "lengket",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kuat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "manis",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "hambar",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "ganjil",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "genap",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "hangat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "lemah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "basah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kosong",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "limpah",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "penuh",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "berat",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "jarang",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "mantap",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "rugi",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "gelisah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "marah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "ganggu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "apatis",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "banal",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "duri",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "kelahi",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "ratap",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "bosan",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kasar",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "jatuh",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "runtuh",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "kontradiktif",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kontra",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kontradiksi",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "balik",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "korosif",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "korup",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kriminal",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "tangis",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "potong",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "pengecut",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "pecundang",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "mati",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sangkal",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "cela",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "murung",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "rampas",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "penyakit",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "kusut",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "bohong",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "hina",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sulit",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "marah",
+        "type": "Adjevtiva",
+        "value": "-1"
+    },
+    {
+        "word": "kikis",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "jahat",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "gagal",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "takut",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "canggung",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kubur",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "serakah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "rakus",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "tamak",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "suram",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "ringis",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "dosa",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "lesu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "bahaya",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "benci",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "minim",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "musuh",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "rival",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "luka",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "abai",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "mentah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "imperfek",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "mustahil",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "janggal",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "celaka",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "gila",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "hilang",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kental",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "gertak",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "kacau",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "cacat",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "erang",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "naif",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "nakal",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "negatif",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "omong kosong",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "serang",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "tindas",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "pesimis",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "pesimistis",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "pesimisme",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "picik",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "racun",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "miskin",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "henti",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "tolak",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "mungkir",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "mangkir",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "kutuk",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "kutu",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "dendam",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kejam",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sedih",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "buas",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "liar",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "jerit",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "parah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kejut",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sedu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "bau",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "stres",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "macet",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "curiga",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "ancam",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "curang",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "sial",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "semena-mena",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "tersedu-sedu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "langu",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "kecewa",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "buang",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "putus asa",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "bingung",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "ganas",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "keji",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "lelah",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "nol",
+        "type": "Nomina",
+        "value": "-1"
+    },
+    {
+        "word": "kecam",
+        "type": "Verba",
+        "value": "-1"
+    },
+    {
+        "word": "sudah",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "manfaat",
+        "type": "Verba",
+        "value": "1"
+    },
+    {
+        "word": "banyak",
+        "type": "Keterangan",
+        "value": "1"
+    },
+    {
+        "word": "jauh",
+        "type": "Keterangan",
+        "value": "-1"
+    },
+    {
+        "word": "baru",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "paham",
+        "type": "Verba",
+        "value": "1"
+    },
+    {
+        "word": "enak",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tuduh",
+        "type": "Verba",
+        "value": "0"
+    },
+    {
+        "word": "aman",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "tertib",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "sejuk",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "ramah",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "kenang",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "mahal",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "dekat",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "nyaman",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "good",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "beautiful",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "nice",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "great",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "wonderful",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "bad",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "dirty",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "clear",
+        "type": "Adjektiva",
+        "value": "1"
+    },
+    {
+        "word": "expensive",
+        "type": "Adjektiva",
+        "value": "-1"
+    },
+    {
+        "word": "far",
+        "type": "Adjektiva",
+        "value": "-1"
+    }
+]
