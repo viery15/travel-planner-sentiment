@@ -5,6 +5,8 @@ class Sentiment extends CI_Controller {
 
     public function __construct()
     {
+        header('Access-Control-Allow-Origin: *');
+        header("Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE");
         parent::__construct();
         $this->load->model("KataBaku");
         $this->load->model("SentimentalWord");
@@ -14,35 +16,39 @@ class Sentiment extends CI_Controller {
 
 	public function index()
 	{
-        $kalimat = [
-            "Lokasiii sangat asri dan adem..cocok untuk berikutnya rekreasi kebawa keluarga",
-            "Wisata yg murah buat cuci mata dan mrasakan kesegaran jernih nya mata air pgunungan... Ccok buat yg pngen renang dan main2 air aja sih... Hhe...",
-            "Biasa ajj...",
-            "Mudah diakses pake Mobil. Lokalnya kecil tapi senang buat anak2 berenang... Dan berselfie",
-            "Alami indah bagus sayang tidak dikelola dengan baik",
-            "Tempat liburan natural dan cocok untuk keluarga,  ada penyewaan ban untuk anak-dewasa. Akses sedikit sulit,  tapi dibantu warga.",
-            "Bagus sih buat foto tergantung angel pengambilan. Tapi tempatnya B ajah",
-            "Suber Sira adalah salah satu destinasi wisata alam ....yang menampilkan pesona pemandangan Persawahan dan kolom renang semi alami...yang memiliki air yang jernih dan mengalir. Untuk menikmatinya Anda cukup membayar Kontribusi/Tiket masuk …",
-            "Bagusss, bersih,asrii",
-            "Tujuan wisata yang merakyat di kawasan Malang. Berupa kolam yang dibuat untuk menampung sumber air yang biasa digunakan warga untuk mandi, cuci, sampai pengairan sawah. Daya tariknya berada di tumbuhan yang berada di dasar kolam, indah dan …",
-            "recomended nih kesini buat sekedar melepas lelah.. cocok lah buat escape from the city .. hehe. tiket masuk per tgl 17 april 2019 kmaren cuman rp. 3000.. parkir motor rp.2000.. sewa ban di dalem rp. 5000 sepuasnya .. cocok buat liburan kluarga.. low budget vacation .  😁😁",
-            "Airnya super jernih",
-            "Tempat wisata alami yg indah dengan sumber yang jernih dan rumput bawah air yg menakjubkan.  Tak kalah dengan persawahan yg indah dan juga pas buat foto2 hunting atau event2 disini.",
-            "Kita bisa menikmati wisata bawah air di sumber sira dengan biaya yg murah",
-            "Lumayan sih untuk sumber air alami, tempat masih perbaikan",
-            "Tempat nya keren abis.... Tapi tolong dong sampah di dekat dam pembuangan air di bersihkan ya... Great place",
-            "Tempatnya rindang namun kurang bersih \nKamarmandinya kurang layak",
-            "Kalo sebagai warga sekitar sih tempat ini B aja, ada banyak sumber2 didaerah sini. Tapi lumayan lah ya bisa melepas penat disini denganhamparan sawah dan air ygmemang langsung dr alam, gk ada kaporit atau bahan kimia lainnya",
-            "Pemandangan menakjubkan, masih sangat asri dengan pedesaannya, sawah membentang luas dengan aliran sungainya yang bersih.\nIdeal sekali untuk refreshing dari kebisingan kota.\nAda sumber alam yang bisa dipakai untuk berenang atau foto underwater, karena tanaman dan lumut di dasar sumber yang indah",
-            "Sumber yang sangat bersih dan jernih jauh dari keramaian tempat di tengah sawah, Gratis tinggal parkir dan sewa ban dan kabinet bayar, ada beberapa warung kopi ...cocok untuk liburan murah",
-            "Airnya jernih bgt . Cocok buat yg pngen renang santai. ",
-            "tidak bagus"
-        ];
-        // print_r($kalimat);
+        
+        $stream_clean = $this->security->xss_clean($this->input->raw_input_stream);
+        $request = json_decode($stream_clean);
 
+        $kalimat = $request->reviews;
+
+        // $kalimat = [
+        //     "Jarak Tempat dg jalan aspal deket.\nKita parkir di atas. Arah tempat rekreasi nya, menjorok ke bawah.\nSampai di depan gerbang disambut para penjual cilok dan sempol. Dan juga penjaga pintu masuk. Harga tiket  per orang 5.000 rupiah, tdk mngikat, dalam arti fleksibel. Tergantung kebijakan dari penjaga pintu.\nKadang ada yg mmbawa anak kecil, anak kecil tdk dtarik tiket.\nBegitu kita masuk kawasan, ada bbrp pohon besar di sekitar, ada dua kolam renang, mushola kecil, bbrp warung, 2 toilet, dua tempat ganti, odong2, dan juga persewaan ban.\n\nDeskripsi kolam renang\n-kolam anak, kedalaman sekitar 40 cm, berlumut, licin. Air tdk mengalir, tergenang dan diam, sedikit hangat, karena tdk ada sirkulasi air dan banyak anak (yg maaf, pipis di kolam).\n\n- satu kolam besar, kedalaman sekitar 170-200 cm. Air nya cukup dingin, karena sumber air alami. Banyak lumut di pinggiran tembok dan juga bebatuan di bawah. Jika diperhatikan, banyak pengunjung yg tdk berenang. Mereka hanya tubing, diatas ban. Namun hanya dipinggiran saja. Airnya sih jernih, namun terlihat kotor, banyak sampah alami, seperti daun dan dahan. Jadi gak seru klo berenang sendirian.\n\nInfo tambahan\n-Sewa ban 5.000\n-Masuk toilet 2.000\n-Naik odong2 5.000\n\nKesimpulan secara keseluruhan\n-kebersihan   ❌\n-kenyamanan❌\n-keindahan    ❌\n-keamanan    ❌\n-fasilitas         ❌\n-harga             ✅\n\nSemoga infonya membantu.",
+        //     "Lokasinya nyaman, teduh, airnya dingin. Sebelnya harus bayar dobel ya bayar parkir ya bayar tiket masuk tapi gpp deh. Tolong banget di perketat keamanan disana terkait para wisatawan yg seenak jidat keramas dan mandi pake sabun trs langsung …",
+        //     "Terakhir kesini tahun 2015, waktu ber kunjung kesini lagi tahun 2019, sudah sangat berubah, dulu warna airnya masih lebih bersih dari sekarang.... ke bersihin lumayan terjaga, namun mohon bagi pihak yang menjaga tempat, jangan biarkan org2 mandi di air memakai shampo atau sabun, karna bisa me rusak ekosistem yang ada di dalam airnya.",
+        //     "Sumber Jenon, salah satu obyek wisata kolam  pemandian.  bagian dasar kolsm ini tertutupi batako. Kedalaman sumber mata air ini lumayan dalam, kirang lebih sampai 4 meter. Jadi, bagi pendatang yang tak bisa berenang, bisa menyewa ban yang …",
+        //     "Harga yang tiket masuk murah. Airnya bersih tapi bisa keruh karena bawahnya adalah pasir. Air tidak mengandung kaporit karena berasal dari mata air. Disarankan membawa alat snorkel sehingga bisa melihat isi kolam. Terdapat fasilitas …",
+        //     "Tempat Wisata yg Murah Meriah dengan Pemandangan yg Alami & Sayang sekali belum ada dari pihak pemerintah yg memperhatikan untuk mengelolah",
+        //     "Tempatnya terlalu dalam, jadi yang kurang pandai berenang tidak berani berenang. Bisa diantisipasi dengan pengurangan kadar air atau pengurukan",
+        //     "salah satu tempat andalan buat bersantai di kabupaten Malang. dan dulu punya teman juga yang ngurus tempat wisata ini",
+        //     "Dekat dengan kota malang\nHarga 5000, parkuran sudah di perluas kepintu sebelum gerbang\nAir jernih (sumber beneran)\nPemandangan ok ok, banyak gadis desa\nRekomendasi klo mau berenang murah",
+        //     "Sebuah wisata alam yang cukup bagus dan cukup murah. Sayangnya lahan parkir masih perlu disiapkan dengan lebih luas, rata dan nyaman.\n\nBegitu pula kebersihan kolam air perlu ditingkatkan kebersihannya. Karena banyak daun pohon — terutama …",
+        //     "Dingin..dalam 4 meter lebih tapi ada yg 1 meter kok",
+        //     "Merupakan salah satu sumber yang terkenal di malang. Sumber jenon ini memiliki keunikan berupa ikan ikan besar yang berada di kolamnya. Konon ikan ikan ini dikeramatkan dan meruoakan penjaga sumber jenon. Kedalaman sumber ini cukup dalam …",
+        //     "Kolam Dari sumber Murni .. dinggin dan masih rindang akan pepohonan",
+        //     "Tempatnya sejuk dikelilingi pepohonan yg rindang, airnya jernih, menurut saya tempat ini ramah anak",
+        //     "Sumber jenon suasananya bikin hati adem ayem, di kolamnya bisa dikatakan cukup dalam, jadi yang tidak bisa berenang harap hati hati ya agar tidak tenggelam, terdapat banyak ikan di dalam kolam tersebut akan tetapi airnya sangat jernih, tiket masuk murah, jalan menuju sumber cukup bagus.",
+        //     "Kemarin saat saya diving tempatnya sudah mulai kotor, dan lumayan mistis karena saya tertarik ke dasar",
+        //     "Merupakan tempat wisata air yang sudah populer di kec. Tajinan. Air sumbernya cukup jernih dan udaranya masih segar. Perlu penanganan yang lebih baik sehingga bisa menarik masyarakat.",
+        //     "Tempat berenang yg murah dan airnya jernih dari air sumber",
+        //     "Rugi kalok gak main kesini 😁😁😁",
+        // ];
+
+        // $kalimat = $this->tokenizing($kalimat);
         $kalimat = $this->caseFolding($kalimat);
         $kalimat = $this->removeSimbol($kalimat);
         $kalimat = $this->removeEmoji($kalimat);
+        $kalimat = $this->removeNonWord($kalimat);
         $kalimat = $this->removeRedundanChar($kalimat);
         $kalimat = $this->removeSpace($kalimat);
         $kalimat = $this->removeNumber($kalimat);
@@ -53,25 +59,34 @@ class Sentiment extends CI_Controller {
             $result[$i] = $this->sentimentProcess($kalimat[$i]);
         }
 
-        $final_score = 0;
         for ($j=0; $j < count($result); $j++) { 
             $final_result[$j]['word'] = "";
             for ($k=0; $k < count($result[$j]['word']); $k++) { 
                 $final_result[$j]['word'] = $final_result[$j]['word'] . " " . $result[$j]['word'][$k]['word'];
                 $final_result[$j]['scorelist'] = $result[$j]['scorelist'];
                 $final_result[$j]['score'] = $result[$j]['score'];
-                $final_score = $final_score + $result[$j]['score'];
             }
         }
-        
-        print_r($final_result);
-        $final_score = $final_result[0]['score'] + $final_result[1]['score'] + $final_result[7]['score'];
-        print_r($final_score);
+
+        $total_score = 0;
+        for ($i=0; $i < count($final_result); $i++) { 
+            if ($final_result[$i]['score'] > 0) {
+                $total_score++;
+            }
+        }
+
+        echo json_encode($total_score);
+        // print_r($kalimat);
         
     }
 
+    public function tokenizing($kalimat){
+        $kata = explode(" ",$kalimat);
+
+        return $kalimat;
+    }
+
     public function sentimentProcess($kalimat){
-                
         $sentence = explode(" ", $kalimat);
         $i = 0;
         $wordList = [];
@@ -187,7 +202,6 @@ class Sentiment extends CI_Controller {
         $result['word'] = $wordList;
         $result['scorelist'] = $this->reconstructArray($score);
         $result['score'] = array_sum($score);
-
 
         return $result;
     }
@@ -313,6 +327,14 @@ class Sentiment extends CI_Controller {
         }
         
         return $string;
+    }
+
+    public function removeNonWord($kalimat){
+        for ($i=0; $i < count($kalimat); $i++) { 
+            $kalimat[$i] = preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $kalimat[$i]);
+        }
+
+        return $kalimat;
     }
 
     public function removeSimbol($kalimat){
