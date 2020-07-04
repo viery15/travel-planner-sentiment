@@ -20,11 +20,11 @@ class Sentiment extends CI_Controller {
         $stream_clean = $this->security->xss_clean($this->input->raw_input_stream);
         $request = json_decode($stream_clean);
 
-        $kalimat = $request->reviews;
+        $kalimat_ori = $request->reviews;
 
-        // $kalimat = [
+        // $kalimat_ori = [
         //     "Jarak Tempat dg jalan aspal deket.\nKita parkir di atas. Arah tempat rekreasi nya, menjorok ke bawah.\nSampai di depan gerbang disambut para penjual cilok dan sempol. Dan juga penjaga pintu masuk. Harga tiket  per orang 5.000 rupiah, tdk mngikat, dalam arti fleksibel. Tergantung kebijakan dari penjaga pintu.\nKadang ada yg mmbawa anak kecil, anak kecil tdk dtarik tiket.\nBegitu kita masuk kawasan, ada bbrp pohon besar di sekitar, ada dua kolam renang, mushola kecil, bbrp warung, 2 toilet, dua tempat ganti, odong2, dan juga persewaan ban.\n\nDeskripsi kolam renang\n-kolam anak, kedalaman sekitar 40 cm, berlumut, licin. Air tdk mengalir, tergenang dan diam, sedikit hangat, karena tdk ada sirkulasi air dan banyak anak (yg maaf, pipis di kolam).\n\n- satu kolam besar, kedalaman sekitar 170-200 cm. Air nya cukup dingin, karena sumber air alami. Banyak lumut di pinggiran tembok dan juga bebatuan di bawah. Jika diperhatikan, banyak pengunjung yg tdk berenang. Mereka hanya tubing, diatas ban. Namun hanya dipinggiran saja. Airnya sih jernih, namun terlihat kotor, banyak sampah alami, seperti daun dan dahan. Jadi gak seru klo berenang sendirian.\n\nInfo tambahan\n-Sewa ban 5.000\n-Masuk toilet 2.000\n-Naik odong2 5.000\n\nKesimpulan secara keseluruhan\n-kebersihan   ❌\n-kenyamanan❌\n-keindahan    ❌\n-keamanan    ❌\n-fasilitas         ❌\n-harga             ✅\n\nSemoga infonya membantu.",
-        //     "Lokasinya nyaman, teduh, airnya dingin. Sebelnya harus bayar dobel ya bayar parkir ya bayar tiket masuk tapi gpp deh. Tolong banget di perketat keamanan disana terkait para wisatawan yg seenak jidat keramas dan mandi pake sabun trs langsung …",
+        //     "Lokasinya nyaman, teduh, airnya dingin. Sebelnya harus bayar dobel ya bayar parkir ya bayar tiket masuk tapi gpp deh. Tolong banget di perketat keamanan disana terkait para wisatawan yg seenak jidat keramas dan mandi pake sabun",
         //     "Terakhir kesini tahun 2015, waktu ber kunjung kesini lagi tahun 2019, sudah sangat berubah, dulu warna airnya masih lebih bersih dari sekarang.... ke bersihin lumayan terjaga, namun mohon bagi pihak yang menjaga tempat, jangan biarkan org2 mandi di air memakai shampo atau sabun, karna bisa me rusak ekosistem yang ada di dalam airnya.",
         //     "Sumber Jenon, salah satu obyek wisata kolam  pemandian.  bagian dasar kolsm ini tertutupi batako. Kedalaman sumber mata air ini lumayan dalam, kirang lebih sampai 4 meter. Jadi, bagi pendatang yang tak bisa berenang, bisa menyewa ban yang …",
         //     "Harga yang tiket masuk murah. Airnya bersih tapi bisa keruh karena bawahnya adalah pasir. Air tidak mengandung kaporit karena berasal dari mata air. Disarankan membawa alat snorkel sehingga bisa melihat isi kolam. Terdapat fasilitas …",
@@ -41,20 +41,31 @@ class Sentiment extends CI_Controller {
         //     "Kemarin saat saya diving tempatnya sudah mulai kotor, dan lumayan mistis karena saya tertarik ke dasar",
         //     "Merupakan tempat wisata air yang sudah populer di kec. Tajinan. Air sumbernya cukup jernih dan udaranya masih segar. Perlu penanganan yang lebih baik sehingga bisa menarik masyarakat.",
         //     "Tempat berenang yg murah dan airnya jernih dari air sumber",
-        //     "Rugi kalok gak main kesini 😁😁😁",
+        //     "sangat bagus 😁😁😁",
         // ];
+        
 
+        // $kalimat[0] = "12121212Tempattttt berenang yg murah dan airnya jernih dari air sumberrrr...!!!😁😁😁";
+        
         // $kalimat = $this->tokenizing($kalimat);
-        $kalimat = $this->caseFolding($kalimat);
+        $kalimat = $this->caseFolding($kalimat_ori);
+        
         $kalimat = $this->removeSimbol($kalimat);
+        
         $kalimat = $this->removeEmoji($kalimat);
+        
         $kalimat = $this->removeNonWord($kalimat);
+        
         $kalimat = $this->removeRedundanChar($kalimat);
+        
         $kalimat = $this->removeSpace($kalimat);
+        
         $kalimat = $this->removeNumber($kalimat);
+        
         $kalimat = $this->removeStopWord($kalimat);
+        
         $kalimat = $this->cekKataBaku($kalimat);
-
+        
         for ($i=0; $i < count($kalimat); $i++) { 
             $result[$i] = $this->sentimentProcess($kalimat[$i]);
         }
@@ -75,8 +86,17 @@ class Sentiment extends CI_Controller {
             }
         }
 
-        echo json_encode($total_score);
-        // print_r($kalimat);
+        for ($i=0; $i < count($final_result); $i++) { 
+            $review[$i]['review'] = $kalimat_ori[$i];
+            $review[$i]['sentiment'] = $final_result[$i]['score'];
+        }
+
+        $response = array(
+            'total_score' => $total_score,
+            'reviews' => $review
+        );
+
+        echo json_encode($response);
         
     }
 
